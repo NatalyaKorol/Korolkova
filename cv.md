@@ -15,4 +15,28 @@ At the moment, I started to study the frontend. It is difficult, but very intere
    * HTML
    * Git
 
+### **Code examples:**
+`
+<h3>header</h3>
+<ol>
+    <li> li one
+        <p>paragraph</p>
+    </li>
+    <li>li two
+        <ul>
+            <li>1.1</li>
+            <li>1.2</li>
+        </ul>
+    </li>
+</ol>
+`
 
+### **Courses:**
+   * htmlbook
+
+
+### **Work experience:**
+   * I'm working on it! =)
+
+### **English:**
+   * Beginner(A1)
